@@ -17,7 +17,7 @@ corresponding alignment file.
 * shutil
 * Download the code:
 ```
-git clone https://github.com/Jenny-Smolenksy/libri-speech-files-parser.git
+	git clone https://github.com/Jenny-Smolenksy/LibriSpeechFilesParser.git
 ```
 
 

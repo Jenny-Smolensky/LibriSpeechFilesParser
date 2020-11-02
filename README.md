@@ -7,6 +7,19 @@ This code can be used to parse libri-speech data for speech measure project.
 This code allows to separate each audio file according to vowels mentioned in it's
 corresponding alignment file.
 
+## Installation instructions
+
+* Python 3.6+
+* librosa
+* pydub
+* soundfile
+* pathlib
+* shutil
+* Download the code:
+```
+git clone https://github.com/Jenny-Smolenksy/libri-speech-files-parser.git
+```
+
 
 ## Data
 

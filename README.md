@@ -6,6 +6,7 @@ This code can be used to parse libri-speech data for speech measure project.
 This code allows to separate each audio file according to vowels mentioned in it's
 corresponding alignment file.
 
+**************************************************************************************
 ********************************Data**************************************************
 
 You should specify two folder paths: folder for audio files, and folder for alignment

@@ -103,9 +103,9 @@ This code divides parsed files in given structure:
 ├───path
     │   ├───folder1
     │   │       file (wav / wav + wrd)	
-	│   ├───folder2
+    |   ├───folder2
     │   │       file (wav / wav + wrd)
-	│   ├───....
+    |   ├───....
     │   │       
 
 into structure:
